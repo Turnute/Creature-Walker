@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="CreatureData" format=3 uid="uid://beqbygdyks63n"]
+
+[ext_resource type="Script" uid="uid://1jqkpa6fg30n" path="res://scripts/creature_data.gd" id="1_0e2i0"]
+[ext_resource type="Texture2D" uid="uid://crsayg12jgj7a" path="res://sprites/creatures/bitmin.png" id="1_ajq0j"]
+
+[resource]
+script = ExtResource("1_0e2i0")
+id = "bitmin"
+display_name = "Bitmin"
+creature_type = 2
+portrait = ExtResource("1_ajq0j")

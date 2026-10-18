@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="CreatureData" format=3 uid="uid://dc14hqgppuudo"]
+
+[ext_resource type="Texture2D" uid="uid://dyrudrmd5grpl" path="res://sprites/creatures/lifebulb.png" id="1_2a60v"]
+[ext_resource type="Script" uid="uid://1jqkpa6fg30n" path="res://scripts/creature_data.gd" id="1_6imtm"]
+
+[resource]
+script = ExtResource("1_6imtm")
+id = "lifebulb"
+display_name = "Lifebulb"
+creature_type = 1
+portrait = ExtResource("1_2a60v")

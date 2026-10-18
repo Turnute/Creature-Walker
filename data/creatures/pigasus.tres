@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="CreatureData" format=3 uid="uid://b33t5k41e1m5k"]
+
+[ext_resource type="Texture2D" uid="uid://dce46c61xyvwj" path="res://sprites/creatures/pigasus.png" id="1_ipkhv"]
+[ext_resource type="Script" uid="uid://1jqkpa6fg30n" path="res://scripts/creature_data.gd" id="1_lpi02"]
+
+[resource]
+script = ExtResource("1_lpi02")
+id = "pigasus"
+display_name = "Pigasus"
+creature_type = 0
+portrait = ExtResource("1_ipkhv")

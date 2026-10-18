@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="CreatureData" format=3 uid="uid://dcd5n40w8ldu"]
+
+[ext_resource type="Texture2D" uid="uid://cj54klcc0eare" path="res://sprites/creatures/pigeon.png" id="1_35sg4"]
+[ext_resource type="Script" uid="uid://1jqkpa6fg30n" path="res://scripts/creature_data.gd" id="1_iomk5"]
+
+[resource]
+script = ExtResource("1_iomk5")
+id = "pigeon"
+display_name = "Pigeon"
+portrait = ExtResource("1_35sg4")
